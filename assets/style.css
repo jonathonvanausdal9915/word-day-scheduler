@@ -79,6 +79,7 @@ textarea {
     margin-right: auto;
     width: 80%;
     justify-content: space-around;
+    font-size: 25px;
 }
 
 .time {
