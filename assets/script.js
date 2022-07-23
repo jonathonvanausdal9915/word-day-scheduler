@@ -10,7 +10,7 @@ time.text(datetime);
 
 
 var hour = datetime.hour;
-if (hour > )
+
 
 //$("#9am").removeClass("hour");
 //$("#9am").addClass('past');
