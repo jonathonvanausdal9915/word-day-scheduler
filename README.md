@@ -8,5 +8,5 @@
 * Renders saved Events from local Storage
 ## Links
 * https://github.com/jonathonvanausdal9915/work-day-scheduler
-*
+* https://jonathonvanausdal9915.github.io/work-day-scheduler/
 # Screenshot
